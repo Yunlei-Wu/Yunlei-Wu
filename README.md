@@ -10,6 +10,9 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yunlei-Wu)](https://github.com/anuraghazra/github-readme-stats)
 
+## My favorite quote:
+### We ascribe beauty to that which is simple; which has no superfluous parts; which exactly answers its end; which stands related to all things; which is the mean of many extremes.
+Ralph Waldo Emerson (1803-1882)
 <!---
 Yunlei-Wu/Yunlei-Wu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
